@@ -1,4 +1,4 @@
 FTextEditor
 ===========
 
-simple text editor
+simple text editor for me
